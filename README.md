@@ -12,8 +12,8 @@ AIFFEL 코딩마스터 교재 공부 및 코딩 연습
   - [04-1 스택](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch04_1_stack.ipynb)
   - [04-2 큐](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch04_2_queue.ipynb)
 - 05장 재귀 알고리즘
-  - [05-1&2 재귀 알고리즘 분석](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch05_1_recursion.ipynb)
-  - 05-3&4 하노이의 탑, 8퀸 문제
+  - [05-1&2 재귀 알고리즘](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch05_1_recursion.ipynb)
+  - [05-3&4 하노이의 탑, 8퀸 문제](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch05_2_hanoi_8queen.ipynb)
 - 06장 정렬 알고리즘
 - 07장 문자열 검색
 - 08장 리스트

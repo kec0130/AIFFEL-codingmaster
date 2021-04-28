@@ -9,11 +9,11 @@ AIFFEL 코딩마스터 교재 공부 및 코딩 연습
 - [02장 기본 자료구조와 배열](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch02_array.ipynb)
 - [03장 검색 알고리즘](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch03_search.ipynb)
 - 04장 스택과 큐
-  - [04-1 스택](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch04_1_stack.ipynb)
-  - [04-2 큐](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch04_2_queue.ipynb)
+  - [(1) 스택](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch04_1_stack.ipynb)
+  - [(2) 큐](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch04_2_queue.ipynb)
 - 05장 재귀 알고리즘
-  - [05-1&2 재귀 알고리즘](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch05_1_recursion.ipynb)
-  - [05-3&4 하노이의 탑, 8퀸 문제](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch05_2_hanoi_8queen.ipynb)
+  - [(1) 재귀 알고리즘](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch05_1_recursion.ipynb)
+  - [(2) 하노이의 탑, 8퀸 문제](https://github.com/kec0130/AIFFEL-codingmaster/blob/main/ch05_2_hanoi_8queen.ipynb)
 - 06장 정렬 알고리즘
 - 07장 문자열 검색
 - 08장 리스트
